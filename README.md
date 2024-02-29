@@ -20,12 +20,12 @@ For building and running the application you need:
 
 ## <u> Clone the Repository </u>
 
-[Link to GitHub Repository](https://github.com/MannParutthi/Travel-Booking-System)
+[Link to GitHub Repository](https://github.com/iamshreyans/Travel-Booking-System--Java-SpringBoot-React?tab=readme-ov-file)
 
 To clone this project, run the following command in your terminal:
 
 ```
-git clone https://github.com/MannParutthi/Travel-Booking-System
+git clone [https://github.com/iamshreyans/Travel-Booking-System--Java-SpringBoot-React?tab=readme-ov-file]
 ```
 
 <hr/>
